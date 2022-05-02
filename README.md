@@ -37,6 +37,7 @@ I'm a tech enthusiast from Indonesia who is passionate and willing to learn abou
 
 *	Languages : Bahasa Indonesia (Native), Bahasa Jawa (Native), English (Fluent)
 *	Programming Languages : PHP, JavaScript, TypeScript (Still Learning)
+*	Frameworks : Laravel, React (Still Learning), Svelte  (Still Learning)
 *	DBMS : MySQL, MongoDB
 *	Text Editors :	VS Code, Notepad++
 *	Softwares : draw.io, Adobe Creative Suites, Inkscape, Figma
