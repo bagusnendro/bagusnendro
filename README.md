@@ -20,8 +20,8 @@
 	&emsp;
 	•
 	&emsp;
-	<a href="https://www.twitter.com/nendro_dev" target="_blank" rel="noreferrer"><b>Twitter</b></>
-	 &emsp; 💠
+	<a href="https://www.twitter.com/nendro_dev" target="_blank" rel="noreferrer"><b>Twitter</b></a>
+	&emsp; 💠
 </p>
 	
 <hr>
