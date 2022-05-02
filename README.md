@@ -10,6 +10,9 @@
 
 <p align="center">  	
 	💠 &emsp; 
+	<a href="mailto:workstuff.bagus@gmail.com" target="_blank" rel="noreferrer"><b>E-Mail</b></a>
+	&emsp;
+	•
 	<a href="https://discord.com/users/RYS" target="_blank" rel="noreferrer"><b>Discord</b></a>
 	&emsp;
 	•
@@ -55,18 +58,19 @@ I'm a tech enthusiast from Indonesia who is passionate and willing to learn abou
   <tr align="left">
 	  <th>Programming Languages</th>
 	  <td>
-		<a href="https://www.php.net/" target="_blank" rel="noreferrer">PHP</a>, <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">JavaScript</a>, 
-		<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a> (Still Learning)
+		  <a href="https://www.php.net/" target="_blank" rel="noreferrer">PHP</a>, 
+		  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">JavaScript</a>, 
+		  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a>
 	  </td>
   </tr>
-	<tr align="left">
+  <tr align="left">
 	  <th>Frameworks</th>
 		<td>
 			<a href="https://laravel.com/" target="_blank" rel="noreferrer">Laravel</a> (Any Version), 
 			<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> React</a> (Still Learning), 
 			<a href="https://svelte.dev/" target="_blank" rel="noreferrer">Svelte</a> (Still Learning)
 		</td>
-	</tr>
+  </tr>
   <tr align="left">	  
 	  <th>DBMS</th>
 	  <td>
@@ -76,22 +80,22 @@ I'm a tech enthusiast from Indonesia who is passionate and willing to learn abou
   </tr>
 	<tr align="left">
 	  <th>Text Editors</th>
-    <td>
-		<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> VS Code</a>, 
-		<a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">Notepad++</a>
-	</td>
-  </tr>
+		<td>
+			<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> VS Code</a>, 
+			<a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">Notepad++</a>
+		</td>
+	</tr>
 	<tr align="left">
 	  <th>Design & Modelling Softwares</th>
-    <td>
-		<a href="https://www.draw.io/" target="_blank" rel="noreferrer">draw.io</a>, 
-		<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">Illustrator</a>, 
-		<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">Photoshop</a>, 
-		<a href="https://inkscape.org/id/" target="_blank" rel="noreferrer">Inkscape</a>, 
-		<a href="https://krita.org/en/" target="_blank" rel="noreferrer">Krita</a>, 
-		<a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>
-	</td>
-  </tr>
+		<td>
+			<a href="https://www.draw.io/" target="_blank" rel="noreferrer">draw.io</a>, 
+			<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">Illustrator</a>, 
+			<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">Photoshop</a>, 
+			<a href="https://inkscape.org/id/" target="_blank" rel="noreferrer">Inkscape</a>, 
+			<a href="https://krita.org/en/" target="_blank" rel="noreferrer">Krita</a>, 
+			<a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>
+		</td>
+	</tr>
 	<tr align="left">
 	  <th>Editing Softwares</th>
     <td>
