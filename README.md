@@ -27,7 +27,7 @@
 <hr>
 
 ### :rocket: You wanna know more about me?
-I'm a tech enthusiast from :indonesia: Surabaya, Indonesia who is passionate and willing to learn about anything related to Website Development
+I'm a tech enthusiast from Indonesia who is passionate and willing to learn about anything related to Website Development
 
 *   📖	Currently learning JS Frameworks (React & Svelte) and JAMstacks
 *   🤝	Always open to collaborate on Graphic Design and Website Development related projects
