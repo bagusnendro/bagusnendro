@@ -44,6 +44,39 @@ I'm a tech enthusiast from Indonesia who is passionate and willing to learn abou
 <br>
 <br>
 
+### :pushpin: Here's what I've been currently working on
+#
+
+Sites :
+
+<table>
+  <tr align="center">
+    <th colspan="3">Name</th>
+  </tr>
+  <tr align="center">
+    <td><a>Live</a></td>
+    <td><a>My Repo</a></td>
+  </tr>	
+</table>
+
+<br>
+<br>
+
+Personal Projects :
+
+<table>
+  <tr align="center">
+    <th colspan="3">Name</th>
+  </tr>
+  <tr align="center">
+    <td><a>Live</a></td>
+    <td><a>My Repo</a></td>
+  </tr>	
+</table>
+
+<br>
+<br>
+
 ### :gear: So...I heard you wanna know what I can do too!?
 #
 <table>
@@ -67,8 +100,8 @@ I'm a tech enthusiast from Indonesia who is passionate and willing to learn abou
 	  <th>Frameworks</th>
 		<td>
 			<a href="https://laravel.com/" target="_blank" rel="noreferrer">Laravel</a> (Any Version), 
-			<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> React</a> (Still Learning), 
-			<a href="https://svelte.dev/" target="_blank" rel="noreferrer">Svelte</a> (Still Learning)
+			<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> React</a>, 
+			<a href="https://svelte.dev/" target="_blank" rel="noreferrer">Svelte</a>
 		</td>
   </tr>
   <tr align="left">	  
