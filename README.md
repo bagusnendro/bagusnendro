@@ -37,9 +37,9 @@
 #
 I'm a tech enthusiast from Indonesia who is passionate and willing to learn about anything related to Website Development
 
-*   📖	Currently learning JS Frameworks (React & Svelte) and JAMstacks
-*   🤝	Always open to collaborate on Graphic Design and Website Development related projects
-*   📫	Feel free to reach me out to discuss anything relating to my hobbies & interests below through the Social Media links provided above
+*   📖	Currently learning JavaScript and Jamstack architectures.
+*   🤝	Always open to collaborate on projects relating to Graphic Design and Website Development.
+*   📫	Feel free to approach me or let's have a discussion anything relating to my [hobbies & interests](https://github.com/bagusnendro#heart-reallynow-you-wanna-know-what-i-like) below through the Social Media links provided above
 
 <br>
 <br>
